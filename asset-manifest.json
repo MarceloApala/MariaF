@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MariaF/static/css/main.7ac5bc16.chunk.css",
+    "main.js": "/MariaF/static/js/main.cb2ffa5e.chunk.js",
+    "main.js.map": "/MariaF/static/js/main.cb2ffa5e.chunk.js.map",
+    "runtime-main.js": "/MariaF/static/js/runtime-main.59f9431c.js",
+    "runtime-main.js.map": "/MariaF/static/js/runtime-main.59f9431c.js.map",
+    "static/js/2.b8f7070a.chunk.js": "/MariaF/static/js/2.b8f7070a.chunk.js",
+    "static/js/2.b8f7070a.chunk.js.map": "/MariaF/static/js/2.b8f7070a.chunk.js.map",
+    "static/js/3.fe9afea7.chunk.js": "/MariaF/static/js/3.fe9afea7.chunk.js",
+    "static/js/3.fe9afea7.chunk.js.map": "/MariaF/static/js/3.fe9afea7.chunk.js.map",
+    "index.html": "/MariaF/index.html",
+    "static/css/main.7ac5bc16.chunk.css.map": "/MariaF/static/css/main.7ac5bc16.chunk.css.map",
+    "static/js/2.b8f7070a.chunk.js.LICENSE.txt": "/MariaF/static/js/2.b8f7070a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/MariaF/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59f9431c.js",
+    "static/js/2.b8f7070a.chunk.js",
+    "static/css/main.7ac5bc16.chunk.css",
+    "static/js/main.cb2ffa5e.chunk.js"
+  ]
+}
